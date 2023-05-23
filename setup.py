@@ -9,7 +9,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'run___package_name___ = ___package_name___:run',
+            '___package_name___ = ___package_name___:run',
         ]
     },
     version='0.1',
